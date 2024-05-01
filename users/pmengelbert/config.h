@@ -3,6 +3,8 @@
 
 #define PERMISSIVE_HOLD
 
+#define QUICK_TAP_TERM 0
+
 /* #define DUMMY_MOD_NEUTRALIZER_KEYCODE KC_F18 */
 
 /* #define RETRO_TAPPING */
